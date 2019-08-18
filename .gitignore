@@ -1,1 +1,9 @@
 .ipynb_*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+/data/*
+__pycache__/*
+demo.py
+guide.pdf
+requirements.txt
+/New folder/*
